@@ -2,7 +2,7 @@
   "name": "apollo-server-example",
   "description": "This project shows a Health Insurance server app to illustrate how to do cool things like: \n- login and return data\n- perform resolver look ahead performance improvements",
   "dependencies": {
-    "apollo-server": "2.9.7",
+    "apollo-server": "2.14.2",
     "dataloader": "1.4.0",
     "graphql": "14.5.8",
     "graphql-tag": "^2.10.1",
